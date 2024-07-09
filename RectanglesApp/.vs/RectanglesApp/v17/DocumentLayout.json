@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kristian\\TestTask\\RectanglesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\viewmodels\\rectanglepanelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\viewmodels\\rectanglepanelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\viewmodels\\rectanglecreationsettingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\viewmodels\\rectanglecreationsettingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\viewmodels\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\viewmodels\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50691C8A-3ECA-4C66-8DDC-DA2FD4870A32}|RectanglesAppTests\\RectanglesAppTests.csproj|d:\\kristian\\testtask\\rectanglesapp\\rectanglesapptests\\addrectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50691C8A-3ECA-4C66-8DDC-DA2FD4870A32}|RectanglesAppTests\\RectanglesAppTests.csproj|solutionrelative:rectanglesapptests\\addrectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|d:\\kristian\\testtask\\rectanglesapp\\rectanglesapp\\common\\datacontainers\\datapoint2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\common\\datacontainers\\datapoint2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\common\\datacontainers\\datarectangle2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\common\\datacontainers\\datarectangle2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\viewmodels\\mainrectangleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\viewmodels\\mainrectangleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\viewmodels\\mainrectanglesettingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\viewmodels\\mainrectanglesettingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\viewmodels\\loginfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\viewmodels\\loginfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\common\\tool\\loginfomessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\common\\tool\\loginfomessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\views\\rectanglecreationsettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\views\\rectanglecreationsettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\views\\rectanglecreationsettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\views\\rectanglecreationsettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\views\\rectanglepanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\views\\rectanglepanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\views\\rectanglepanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\views\\rectanglepanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\views\\mainrectanglesettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\views\\mainrectanglesettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\views\\mainrectanglesettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\views\\mainrectanglesettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\views\\loginfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\views\\loginfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|D:\\Kristian\\TestTask\\RectanglesApp\\rectanglesapp\\views\\loginfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59308C75-249B-4DF3-AB92-C67A3E3B4E4B}|RectanglesApp\\RectanglesApp.csproj|solutionrelative:rectanglesapp\\views\\loginfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddRectangleTests.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesAppTests\\AddRectangleTests.cs",
+              "RelativeDocumentMoniker": "RectanglesAppTests\\AddRectangleTests.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesAppTests\\AddRectangleTests.cs",
+              "RelativeToolTip": "RectanglesAppTests\\AddRectangleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:42:39.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "RectanglesApp\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:21:57.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\ViewModels\\Commands\\RelayCommand.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "RectanglesApp\\ViewModels\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:21:34.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\MainWindowViewModel.cs",
+              "RelativeToolTip": "RectanglesApp\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:44:24.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogInfoMessages.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Common\\Tool\\LogInfoMessages.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\Common\\Tool\\LogInfoMessages.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Common\\Tool\\LogInfoMessages.cs",
+              "RelativeToolTip": "RectanglesApp\\Common\\Tool\\LogInfoMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:36:31.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainRectangleViewModel.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\MainRectangleViewModel.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\ViewModels\\MainRectangleViewModel.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\MainRectangleViewModel.cs",
+              "RelativeToolTip": "RectanglesApp\\ViewModels\\MainRectangleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:29:28.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataRectangle2D.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Common\\DataContainers\\DataRectangle2D.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\Common\\DataContainers\\DataRectangle2D.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Common\\DataContainers\\DataRectangle2D.cs",
+              "RelativeToolTip": "RectanglesApp\\Common\\DataContainers\\DataRectangle2D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:45:01.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RectanglePanel.xaml.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\RectanglePanel.xaml.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\Views\\RectanglePanel.xaml.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\RectanglePanel.xaml.cs",
+              "RelativeToolTip": "RectanglesApp\\Views\\RectanglePanel.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:01:14.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RectanglePanelViewModel.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\RectanglePanelViewModel.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\ViewModels\\RectanglePanelViewModel.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\RectanglePanelViewModel.cs",
+              "RelativeToolTip": "RectanglesApp\\ViewModels\\RectanglePanelViewModel.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAYwLYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:58:30.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RectanglePanel.xaml",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\RectanglePanel.xaml",
+              "RelativeDocumentMoniker": "RectanglesApp\\Views\\RectanglePanel.xaml",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\RectanglePanel.xaml",
+              "RelativeToolTip": "RectanglesApp\\Views\\RectanglePanel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T11:32:58.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LogInfo.xaml.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\LogInfo.xaml.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\Views\\LogInfo.xaml.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\LogInfo.xaml.cs",
+              "RelativeToolTip": "RectanglesApp\\Views\\LogInfo.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:39:52.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogInfoViewModel.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\LogInfoViewModel.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\ViewModels\\LogInfoViewModel.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\LogInfoViewModel.cs",
+              "RelativeToolTip": "RectanglesApp\\ViewModels\\LogInfoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:33:39.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LogInfo.xaml",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\LogInfo.xaml",
+              "RelativeDocumentMoniker": "RectanglesApp\\Views\\LogInfo.xaml",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\LogInfo.xaml",
+              "RelativeToolTip": "RectanglesApp\\Views\\LogInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T09:59:09.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RectangleCreationSettings.xaml.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\RectangleCreationSettings.xaml.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\Views\\RectangleCreationSettings.xaml.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\RectangleCreationSettings.xaml.cs",
+              "RelativeToolTip": "RectanglesApp\\Views\\RectangleCreationSettings.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB0AAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:23:28.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RectangleCreationSettingsViewModel.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\RectangleCreationSettingsViewModel.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\ViewModels\\RectangleCreationSettingsViewModel.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\RectangleCreationSettingsViewModel.cs",
+              "RelativeToolTip": "RectanglesApp\\ViewModels\\RectangleCreationSettingsViewModel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:13:52.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RectangleCreationSettings.xaml",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\RectangleCreationSettings.xaml",
+              "RelativeDocumentMoniker": "RectanglesApp\\Views\\RectangleCreationSettings.xaml",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\RectangleCreationSettings.xaml",
+              "RelativeToolTip": "RectanglesApp\\Views\\RectangleCreationSettings.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T05:33:36.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainRectangleSettings.xaml.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\MainRectangleSettings.xaml.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\Views\\MainRectangleSettings.xaml.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\MainRectangleSettings.xaml.cs",
+              "RelativeToolTip": "RectanglesApp\\Views\\MainRectangleSettings.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:32:02.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainRectangleSettings.xaml",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\MainRectangleSettings.xaml",
+              "RelativeDocumentMoniker": "RectanglesApp\\Views\\MainRectangleSettings.xaml",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Views\\MainRectangleSettings.xaml",
+              "RelativeToolTip": "RectanglesApp\\Views\\MainRectangleSettings.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-07T18:31:30.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainRectangleSettingsViewModel.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\MainRectangleSettingsViewModel.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\ViewModels\\MainRectangleSettingsViewModel.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\ViewModels\\MainRectangleSettingsViewModel.cs",
+              "RelativeToolTip": "RectanglesApp\\ViewModels\\MainRectangleSettingsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:29:17.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataPoint2D.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Common\\DataContainers\\DataPoint2D.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\Common\\DataContainers\\DataPoint2D.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\Common\\DataContainers\\DataPoint2D.cs",
+              "RelativeToolTip": "RectanglesApp\\Common\\DataContainers\\DataPoint2D.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvw4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:51:51.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RectanglesApp\\MainWindow.xaml",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\MainWindow.xaml",
+              "RelativeToolTip": "RectanglesApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-07T17:48:23.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RectanglesApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Kristian\\TestTask\\RectanglesApp\\RectanglesApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RectanglesApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:48:21.648Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

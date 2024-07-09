@@ -1,0 +1,43 @@
+﻿using RectanglesApp.ViewModels;
+using RectanglesApp.Views;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace RectanglesApp
+{
+    /// <summary>
+    /// Логика взаимодействия для MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();   
+            InitializeViewModel();
+        }
+
+        private void InitializeViewModel() 
+        {
+            var rectangleCreationSettingsViewModel = RectangleCreationSettings.GetViewModel();
+            var logInfoViewModel = LogInfo.GetViewModel();
+            var rectanglePanelViewModel = RectanglePanel.GetViewModel();
+            var mainRectangleSettingsViewModel = MainRectangleSettings.GetViewModel();
+            DataContext = new MainWindowViewModel(rectangleCreationSettingsViewModel,
+                                                    mainRectangleSettingsViewModel,
+                                                    rectanglePanelViewModel,
+                                                    logInfoViewModel);
+        }
+    }
+}

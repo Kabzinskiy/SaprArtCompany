@@ -1,0 +1,20 @@
+﻿<Window x:Class="RectanglesApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RectanglesApp" 
+        xmlns:views="clr-namespace:RectanglesApp.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" 
+        Height="600" 
+        Width="1000"
+        ResizeMode="NoResize">
+    
+    <Grid>
+        <views:RectanglePanel VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10, 10, 10, 10" x:Name="RectanglePanel"/>
+        <views:MainRectangleSettings HorizontalAlignment="Right" VerticalAlignment="Top" x:Name="MainRectangleSettings"/>
+        <views:RectangleCreationSettings HorizontalAlignment="Right" VerticalAlignment="Bottom" x:Name="RectangleCreationSettings"/>
+        <views:LogInfo Margin="10,10,10,10" HorizontalAlignment="Left" VerticalAlignment="Bottom" x:Name="LogInfo"/>
+    </Grid>
+</Window>

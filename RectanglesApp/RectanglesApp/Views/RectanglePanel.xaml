@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="RectanglesApp.Views.RectanglePanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:RectanglesApp.Views" 
+             xmlns:viewmodels="clr-namespace:RectanglesApp.ViewModels" 
+             xmlns:common="clr-namespace:RectanglesApp.Common" 
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             mc:Ignorable="d"
+             d:Height="430" 
+             d:Width="745"
+             d:DataContext="{d:DesignInstance Type=viewmodels:RectanglePanelViewModel}"
+             >
+        
+    <Border Background="GhostWhite" BorderBrush="Gainsboro" BorderThickness="1">
+        <Canvas Height="430" Width="745" Background="LightSlateGray" VerticalAlignment="Center">
+            <ItemsControl ItemsSource="{Binding SubRectangles, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemContainerStyle>
+                    <Style TargetType="ContentPresenter">
+                        <Setter Property="Canvas.Left" Value="{Binding Left}"/>
+                        <Setter Property="Canvas.Top" Value="{Binding Top}"/>
+                    </Style>
+                </ItemsControl.ItemContainerStyle>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate DataType="{x:Type common:DataRectangle2D}">
+                        <Rectangle Width="{Binding Width}" Height="{Binding Height}">
+                            <Rectangle.Fill>
+                                <SolidColorBrush Color="{Binding BackgroundColor}"/>
+                            </Rectangle.Fill>
+                            <Rectangle.Stroke>
+                                <SolidColorBrush Color="{Binding BorderColor}"/>
+                            </Rectangle.Stroke>
+                        </Rectangle>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+            <Rectangle x:Name="MainRectangle" 
+                       d:DataContext="{d:DesignInstance  Type=viewmodels:MainRectangleViewModel}"  
+                       StrokeThickness="2"
+                       Stroke="DarkTurquoise" 
+                       Canvas.Left="{Binding Left}" 
+                       Canvas.Top="{Binding Top}"
+                       Height="{Binding Height}"
+                       Width="{Binding Width}"/>
+        </Canvas>
+    </Border>    
+</UserControl>
